@@ -16,6 +16,7 @@
 
 ## Education			        		
 - B.S., Applied Business Information Systems | Grand Canyon University (_January 2025 - December 2026_)
+
 ## Work Experience
 **Troubleshooting Supervisor @ Cruise (_April 2023 - Present_)**
 - Led and managed a team of troubleshooting experts for autonomous vehicles by streamlining technical workflows, improving operational scalability, and improving supplier relationships.
